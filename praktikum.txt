@@ -2,3 +2,4 @@ Resolusi IT Project:
 - Wawancara stakeholder
 - Pengumpulan Data
 - Brainstroming dengan Tim
+Update dari local folder
